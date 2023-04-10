@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "travel to Bagan",
+      "imageUrl": "http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcSRKxknkED3qdTdrpZpBcTUq3b7Nl4HUgWlS2EUwX9DzQ5DTmWd8Y5BExbbvGHh9vOS",
+      "body": "this post is about bagan and the kings of bagan",
+      "place": "Bagan"
+    },
+    {
+      "title": "Ngwe Saung",
+      "imageUrl": "https://pix10.agoda.net/hotelImages/566917/-1/f39d3a3523b3e8862f67a742d040cac6.jpg?ca=17&ce=1&s=450x450",
+      "body": "I love traveling and beaches is I like the most",
+      "id": 2,
+      "place": "Ngwe Saung"
+    }
+  ]
+}
